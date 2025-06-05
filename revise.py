@@ -555,3 +555,17 @@
 # from turtle import *
 # import turtle
 # import turtle as t
+
+# # higher order function
+
+# def add(n1,n2):
+#     return n1+n2
+
+# def multiply(n1,n2):
+#     return n1*n2
+
+# def calculate(n1,n2,func):
+#     return func(n1,n2)
+
+# print(calculate(10,20,add))
+# print(calculate(10,20,multiply))
